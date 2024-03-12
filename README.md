@@ -117,4 +117,5 @@ We have trained our dateset on the model Efficient-Det and Efficient-Net for the
 # FYP Poster
 <img src="https://github.com/UsamaHameed1/Groc-POS-App/blob/main/Project%20Images/Poster/Poster.jpg" width="750">
 
-# For Code Access Email Me !!!!
+# For Code Access visit the following GitHub Repository!!!!
+<a>"https://github.com/the-abdullah-khalid/S23-010-D-GrocPOS.git"</a>
